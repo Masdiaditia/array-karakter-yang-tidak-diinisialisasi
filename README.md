@@ -1,0 +1,1 @@
+# array-karakter-yang-tidak-diinisialisasi
